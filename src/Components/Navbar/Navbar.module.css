@@ -1,0 +1,18 @@
+@import 'src/Variable.css';
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 10px;
+    margin-top: 30px;
+}
+nav a {
+    text-decoration: none;
+    color: var(--heading);
+    font-size: var(--large);
+    letter-spacing: 2px;
+    transition: all 0.2s ease-in-out;
+}
+nav a:hover {
+    color: var(--accent-color);
+}

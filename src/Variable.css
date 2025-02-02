@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #f6f4ec;
+    --accent-color: #de967d;
+
+    --heading: #545748;
+    --paragraph: #6d705e;
+    --subtitle: #a0a48e;
+    --border: rgba(160, 164, 142, .5);
+
+    --large: 1em;
+    --bold: 800;
+
+}
